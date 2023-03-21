@@ -1,8 +1,6 @@
 <h1 align="center">HTMLElementBuilder</h1>
 
-<h1 align="center">
-    <a href="https://laravel-livewire.com/">LiveWire</a>
-</h1>
+
 <p align="center">🚀 A simple class to generate html elements</p>
 
 <p align="center">
@@ -16,10 +14,7 @@
 <div id="features">
 <h2>✨Features</h2>
 
-- [x] create contact
-- [x] edit contact
-- [x] remove contact
-- [x] list contact
+- [x] generate html elements
 </div>
 
 <div id="instalation">
