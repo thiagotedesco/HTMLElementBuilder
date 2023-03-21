@@ -27,16 +27,14 @@
   <ul>
       <li>clone repository</li>
       <li>install dependencies</li>
-      <li>create database.sqlite in database directory</li>  
-      <li>run the migrations</li>
+      <li>run php's built-in server php -S localhost:8000 -t public/</li>        
       <li>enjoy</li>
   </ul>
 </div>
 
 <div id="technologies">
   <h2 >⚒️ Technologies</h2>
-<a href="https://laravel.com/">Laravel</a> <br>
-<a href="https://laravel-livewire.com/">LiveWire</a>
+<a href="https://www.php.net/">PHP</a> <br>
 </div>
 
 <div id="license">
