@@ -1,0 +1,17 @@
+{
+    "name": "thiago/tedesco",
+    "description": "A simple class to generate html elements",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thiago Tedesco",
+            "email": "thiago.tedesco@hotmail.com"
+        }
+    ],
+    "require": {}
+}
